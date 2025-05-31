@@ -20,4 +20,4 @@ The main objective of this project is to analyse retail sales data to gain actio
 - Created pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
-https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/Coffee%20shop%20-%20SC.png
+! [Dashboard] (https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/Coffee%20shop%20-%20SC.png?raw=true)
