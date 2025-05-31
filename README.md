@@ -3,14 +3,14 @@ I have created a comprehensive coffee shop project in excel by creating a dashbo
 ## Project Objective
 The main objective of this project is to analyse retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 ## Dataset
--<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/customers.csv">Customer </a> <br>
--<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/orders.csv">orders </a> <br>
--<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/products.csv">products </a>
+- <a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/customers.csv">Customer </a> <br>
+- <a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/orders.csv">orders </a> <br>
+- <a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/products.csv">products </a>
 ## Questions
--How do sales vary by day of the week and hour of the day?<br>
--Are there any peak times for sales activity? <br>
--What is the total sales revenue for each month?<br>
--How do sales vary across different store locations?<br> 
--What is the average price/order per person? <br>
--Which products are the bestselling in terms of quantity and revenue? <br>
--How do sales vary by product category and type?<br>
+- How do sales vary by day of the week and hour of the day?<br>
+- Are there any peak times for sales activity? <br>
+- What is the total sales revenue for each month?<br>
+-  How do sales vary across different store locations?<br> 
+- What is the average price/order per person? <br>
+- Which products are the bestselling in terms of quantity and revenue? <br>
+- How do sales vary by product category and type?<br>
