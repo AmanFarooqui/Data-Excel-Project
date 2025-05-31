@@ -3,6 +3,6 @@ I have created a comprehensive coffee shop project in excel by creating a dashbo
 ## Project Objective
 The main objective of this project is to analyse retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop
 ## Dataset
-<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/customers.csv">Customer </a>
-<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/orders.csv">orders </a>
+<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/customers.csv">Customer </a> <br>
+<a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/orders.csv">orders </a> <br>
 <a href="https://github.com/AmanFarooqui/Data-Excel-Project/blob/main/products.csv">products </a>
