@@ -14,3 +14,8 @@ The main objective of this project is to analyse retail sales data to gain actio
 - What is the average price/order per person? <br>
 - Which products are the bestselling in terms of quantity and revenue? <br>
 - How do sales vary by product category and type?<br>
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic
